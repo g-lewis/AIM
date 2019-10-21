@@ -1,2 +1,2 @@
-# AIM
-## This is a place where I can keep track of everything going on and related to my Reddit Client, AIM.
+# AIM Suggestions
+## This is where you can add any suggestions you have for features related to AIM.
